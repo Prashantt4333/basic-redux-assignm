@@ -1,0 +1,12 @@
+Redux 	
+
+basic elements of redux
+	1. Actions
+		Actions are Js Object which must have type property 
+	2. Action Creator 
+		Some Functions 
+	3. ReducerFunction
+	4. storeObject
+		Store Onject is passedat the top lavel application component 
+
+useContect + useReducer  =  redux state management library
